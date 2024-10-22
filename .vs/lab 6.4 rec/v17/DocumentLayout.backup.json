@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 6.4 rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658B9AE9-68FA-4443-BBBA-24E27DCB4B76}|..\\UnitTest13\\UnitTest13.vcxproj|C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\UnitTest13\\UnitTest13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EF3A8C-EFE5-49F8-B48E-6E40D5E93CE0}|lab 6.4 rec.vcxproj|C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 6.4 rec\\lab 6.4 rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99EF3A8C-EFE5-49F8-B48E-6E40D5E93CE0}|lab 6.4 rec.vcxproj|solutionrelative:lab 6.4 rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest13.cpp",
+              "DocumentMoniker": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\UnitTest13\\UnitTest13.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest13\\UnitTest13.cpp",
+              "ToolTip": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\UnitTest13\\UnitTest13.cpp",
+              "RelativeToolTip": "..\\UnitTest13\\UnitTest13.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T06:02:39.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab 6.4 rec.cpp",
+              "DocumentMoniker": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 6.4 rec\\lab 6.4 rec.cpp",
+              "RelativeDocumentMoniker": "lab 6.4 rec.cpp",
+              "ToolTip": "C:\\\u0410\u041F\\\u041B\u0430\u0431\u0438 \u0410\u041F\\lab 6.4 rec\\lab 6.4 rec.cpp",
+              "RelativeToolTip": "lab 6.4 rec.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T19:04:45.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
